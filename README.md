@@ -1,3 +1,5 @@
+# The video link for implementation:
+https://drive.google.com/file/d/1r7I9rjoRHiSLQBx756aYz7JrEca4FzrZ/view?usp=sharing
 # Starting a Kaggle notebook
 
 Go to [Kaggle.com](https://www.kaggle.com/) and make an account and initiate a notebook.
